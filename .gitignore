@@ -1,0 +1,9 @@
+.vscode/
+.idea/
+
+*.pyc
+build/
+dist/
+
+pyxcaptcha.egg-info/
+.pytest_cache/
